@@ -1,3 +1,7 @@
 test comm 1
 asass
+<<<<<<< HEAD
 to master
+=======
+from test
+>>>>>>> test
